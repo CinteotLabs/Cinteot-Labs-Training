@@ -7,9 +7,9 @@ Web applications have become very popular today and as a result frameworks like 
 
 ### Installing Python
 
-*Note: In the following instructions you will see commands such as `python3 --version`. It is possible that on your machine that same command is equivelent to `python --version`. This is because as I write this I have multiple version of python installed and therefore need to specify which version of Python I would like to use. Do not worry about this now. If `python3` does not work then try `python`.
+**Note:** In the following instructions you will see commands such as `python3 --version`. It is possible that on your machine that same command is equivelent to `python --version`. This is because as I write this I have multiple version of python installed and therefore need to specify which version of Python I would like to use. Do not worry about this now. If `python3` does not work then try `python`.
 
-Likewise with Pip. If `pip3` does not work, try `pip`.*
+Likewise with Pip. If `pip3` does not work, try `pip`.
 
 Go to Python.org and download Python 3.8.2. Scroll to the bottom and select the appropriate installer based on your machine. Assuming you are on a windows machine you will use the `Windows x86-64 executable installer`.
 
