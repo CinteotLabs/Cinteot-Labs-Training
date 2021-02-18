@@ -1,5 +1,6 @@
 # VoiceEngine-Training
 
+
 ## Purpose 
 
 The Voice Engine was transitioned to a web-application, and utilizes frameworks and design choices that prospective developers would need preexisting knowledge for. With that in mind, we hope to bridge the gap of knowledge for new hires using this repository. 
