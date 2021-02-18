@@ -17,9 +17,7 @@ Go to Python.org and download Python 3.8.2. Scroll to the bottom and select the 
 https://www.python.org/downloads/release/python-382/
 ```
 
-1. Select the bottom checkbox in the installer to `add Python to your PATH` in the installer! This will allow your machine to find the installation.
-<img src="img/py-installer.png" alt="drawing" width="500"/>
-<br>
+1. Select the bottom checkbox in the installer to `add Python to your PATH` in the installer! This will allow your machine to find the installation.<br><img src="img/py-installer.png" alt="drawing" width="500"/>
 2. Then continue with all default settings by selecting `Install Now`
 3. Verify the installation was successful
     - Open Command prompt on your machine
