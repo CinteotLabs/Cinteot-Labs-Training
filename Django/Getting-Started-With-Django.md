@@ -73,7 +73,9 @@ import django
 
 <your code here>
 ```
+
 <br>
+
 Lets make sure that worked. Do the following from the terminal:
 ```
 $ python3
@@ -102,7 +104,7 @@ The tutorial is simple but covers all the basics of how to use Django and creati
 8. How to serve your project locally so you can actually use the app you built
 ```
  
-[Your first Django Application](https://www.pythonistaplanet.com/to-do-list-app-using-django/)
+[Create Your first Django Application](https://www.pythonistaplanet.com/to-do-list-app-using-django/)
  
 <br><br>
 ## Want to keep going?
