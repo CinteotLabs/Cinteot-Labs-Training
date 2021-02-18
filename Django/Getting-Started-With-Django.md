@@ -124,6 +124,7 @@ And Much More ...
 *The tutorials linked above are **ALL** tools that we use for the Voice Engine project. That may seem like a lot... and it is. Web development has SO many tools, languages and frameworks that can be used - each to accomplish different things. No one can master all of these and no one expects you do either. This resource is meant to introduce you to the basics and expose you to various aspects of what we do.*
  
 <br>
+
 ### Congratulations
 At this point you have seen **ALOT** of very cool, and likely, new technologies. Practice makes perfect(ish) and that is exactly what you have been able to do. 
 
