@@ -112,7 +112,6 @@ When you are finished with your first app, you will have seen a lot of the cool 
 If you haven't worked with CSS before, I recommend you play with it a bit because there isn't a website on the planet (except yours...) that doesn't have some CSS. I recommend [w3schools.com](https://www.w3schools.com/css/default.asp) to learn it! They have a linear progression through CSS that will move from beginner to advanced concepts and they include short quizzes along the way.
 
 W3Schools also has thorough lessons for so many other languages that you can explore beyond CSS. 
-```
 [HTML Tutorial](https://www.w3schools.com/html/default.asp)
 [CSS Tutorial](https://www.w3schools.com/css/default.asp)
 [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
@@ -120,7 +119,7 @@ W3Schools also has thorough lessons for so many other languages that you can exp
 [Bootstrap Tutorial](https://www.w3schools.com/bootstrap4/default.asp)
 [jQuery Tutorial](https://www.w3schools.com/jquery/default.asp)
 And Much More ...
-```
+
 *The tutorials linked above are **ALL** tools that we use for the Voice Engine project. That may seem like a lot... and it is. Web development has SO many tools, languages and frameworks that can be used - each to accomplish different things. No one can master all of these and no one expects you do either. This resource is meant to introduce you to the basics and expose you to various aspects of what we do.*
  
 <br><br>
