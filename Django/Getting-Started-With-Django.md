@@ -113,18 +113,12 @@ If you haven't worked with CSS before, I recommend you play with it a bit becaus
 
 W3Schools also has thorough lessons for so many other languages that you can explore beyond CSS. 
 
-[HTML Tutorial](https://www.w3schools.com/html/default.asp)
-
-[CSS Tutorial](https://www.w3schools.com/css/default.asp)
-
-[JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
-
-[Python Tutorial](https://www.w3schools.com/pyth0n/default.asp)
-
-[Bootstrap Tutorial](https://www.w3schools.com/bootstrap4/default.asp)
-
-[jQuery Tutorial](https://www.w3schools.com/jquery/default.asp)
-
+[HTML Tutorial](https://www.w3schools.com/html/default.asp)<br>
+[CSS Tutorial](https://www.w3schools.com/css/default.asp)<br>
+[JavaScript Tutorial](https://www.w3schools.com/js/default.asp)<br>
+[Python Tutorial](https://www.w3schools.com/pyth0n/default.asp)<br>
+[Bootstrap Tutorial](https://www.w3schools.com/bootstrap4/default.asp)<br>
+[jQuery Tutorial](https://www.w3schools.com/jquery/default.asp)<br>
 And Much More ...
 
 *The tutorials linked above are **ALL** tools that we use for the Voice Engine project. That may seem like a lot... and it is. Web development has SO many tools, languages and frameworks that can be used - each to accomplish different things. No one can master all of these and no one expects you do either. This resource is meant to introduce you to the basics and expose you to various aspects of what we do.*
