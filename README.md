@@ -44,3 +44,4 @@ gain exposure to the project setup.
     
  7. If you navigate back to the main branch in Github, you should now see your "dummy.txt" file in the repo. If you go back to your Git Bash and switch back to the main branch `git checkout main`, you can also type `ls` to see the files in the directory. If you notice, your dummy.txt file is not there. This is because the change was not merged to your local branch just the github global branch. Let's change that.
  
+8. The only step involved is simply typing `git pull` from the main branch in Git Bash. This should download anything you don't already have.
