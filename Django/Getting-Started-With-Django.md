@@ -112,6 +112,7 @@ When you are finished with your first app, you will have seen a lot of the cool 
 If you haven't worked with CSS before, I recommend you play with it a bit because there isn't a website on the planet (except yours...) that doesn't have some CSS. I recommend [w3schools.com](https://www.w3schools.com/css/default.asp) to learn it! They have a linear progression through CSS that will move from beginner to advanced concepts and they include short quizzes along the way.
 
 W3Schools also has thorough lessons for so many other languages that you can explore beyond CSS. 
+
         [HTML Tutorial](https://www.w3schools.com/html/default.asp)<br>
         [CSS Tutorial](https://www.w3schools.com/css/default.asp)<br>
         [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)<br>
