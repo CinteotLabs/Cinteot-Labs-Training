@@ -19,15 +19,19 @@ https://www.python.org/downloads/release/python-382/
 3. Verify the installation was successful
     - Open Command prompt on your machine
     - type `python3 --version` or `python --version`
+   
         ```
         $ python3 --version
         Python 3.8.2
         ```
-You should see `Python 3.8.2` print to the console
-
-Now type `python` or `python3`
-
-You should see ``
-```
+    - Now type `python` or `python3`
+    
+        ```
+        $ python3
+        Python 3.8.2 (default, Dec 21 2020, 15:06:04)
+        [Clang 12.0.0 (clang-1200.0.32.29)] on darwin
+        Type "help", "copyright", "credits" or "license" for more information.
+        >>>
+        ```  
 
 
