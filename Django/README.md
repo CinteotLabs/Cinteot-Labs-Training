@@ -1,6 +1,6 @@
-## Django Tutorial
+# Installing Django and Your First App
 
-*Note: We assume at this point you have Python and PIP installed on your machine.*
+*Note: We assume at this point you have Python and PIP installed on your machine. If you do not, please refer to the `Getting Started :: Python` tutorial.*
 <br>
 ### What we have
 You now have Python installed on your machine and added to your PATH. In short, adding to PATH tells your computer where to look when it sees `python`.

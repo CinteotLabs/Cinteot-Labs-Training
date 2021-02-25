@@ -1,3 +1,5 @@
+# Installing and Using Git
+
 ## Gitting Started on Windows
 
 1. The first step for starting the turotial would be to click the link and download Git/Git-Bash. You'll need to gain basic knowledge of git, so this will be helpful.

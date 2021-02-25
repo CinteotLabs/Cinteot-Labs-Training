@@ -1,3 +1,4 @@
+# Installing Python and PIP
 ## Installing Python
 
 **Note:** In the following instructions you will see commands such as `python3 --version`. It is possible that on your machine that same command is equivelent to `python --version`. This is because as I write this I have multiple version of python installed and therefore need to specify which version of Python I would like to use. Do not worry about this now. If `python3` does not work then try `python`.
