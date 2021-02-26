@@ -10,7 +10,7 @@ This repository contains a series of tutorials that cover a variety of topics an
 ### How to move through these tutorials
 
 ```
-1. Getting started :: Git
+1. Gitting started :: Git
 2. Getting started :: Python
 2. Django
 ```
