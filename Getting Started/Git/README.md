@@ -6,7 +6,7 @@
 
     https://git-scm.com/downloads
 
-    Git is a useful version control tool used in (hopefully) every development project. The link above installs Git with a GUI called Git-Bash. After installing you should not be able to right-click your desktop and see two options: "Git GUI Here" and "Git Bash Here". Select "Git Bash Here" and a terminal window will pop-up. In this terminal you can now run basic git commands.
+    Git is a useful version control tool used in (hopefully) every development project. The link above installs Git with a GUI called Git-Bash. After installing you should now be able to right-click your desktop and see two options: "Git GUI Here" and "Git Bash Here". Select "Git Bash Here" and a terminal window will pop-up. In this terminal you can now run basic git commands.
     
     
 2. The next step is to "clone" this repository. Cloning is simply going to download a copy of this repository locally, but any changes you make on your local copy will be tracked by Git. To clone this repo, click the green Code dropdown (look at the picture if you aren't sure where to find the button). You should see an HTTPS link, copy that link. Now open a Git Bash terminal on your desktop, and type "git clone " with the pasted link and hit enter. You should now see the repository as a folder on your desktop (or where your Git Bash terminal was opened). 
